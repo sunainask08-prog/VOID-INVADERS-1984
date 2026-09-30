@@ -1,0 +1,6 @@
+{
+  "name": "Void Invaders 1984",
+  "description": "An authentic retro 8-bit arcade space shooter built with HTML5 canvas, procedural 8-bit sound synth, dual keyboard/touch controls, and persistent high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
